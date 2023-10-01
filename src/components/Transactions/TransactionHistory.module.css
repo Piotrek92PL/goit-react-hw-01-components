@@ -1,0 +1,29 @@
+.transactionHistory {
+  width: 100%;
+  max-width: 900px;
+  margin-bottom: 20px;
+}
+
+.transactionHistory thead {
+  background-color: #00BFFF;
+  color: white;
+  font-size: 22px;
+}
+
+.transactionHistory th {
+  max-width: 300px;
+  padding-block: 10px;
+  font-weight: 400;
+}
+
+.transactionHistory td {
+  font-size: 18px;
+  padding: 10px;
+  background-color: rgba(219, 219, 219, 0.171);
+  text-align: center;
+  color: #9c9c9c;
+}
+
+.transactionHistory tr:nth-of-type(2n) {
+  background-color: rgba(219, 219, 219, 0.4);
+}

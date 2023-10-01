@@ -7,6 +7,7 @@
   width: 300px;
   box-shadow: 3px 1px 5px rgba(215, 168, 168, 0.305);
   background-color: rgba(219, 219, 219, 0.171);
+  margin-bottom: 20px;
 }
 
 .description {
@@ -60,7 +61,7 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  background-color: #ebe6e6;
+  background-color: #00BFFF;
   border: 1px solid #9c9c9c;
   height: 60px;
 }
@@ -74,10 +75,11 @@
 }
 
 .label {
-  color: #9c9c9c;
+  color: #fff;
 }
 
 .quantity {
   margin-top: 5px;
   font-weight: 600;
+  color: #fff;
 }
